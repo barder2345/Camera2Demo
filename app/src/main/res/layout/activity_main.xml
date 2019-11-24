@@ -8,7 +8,7 @@
 	tools:context=".MainActivity"
 	>
 
-	<com.example.camera2demo.AutoFitTextureView
+	<com.example.camera2demo.widget.AutoFitTextureView
 		android:id="@+id/view_content"
 		android:layout_width="match_parent"
 		android:layout_height="match_parent"
